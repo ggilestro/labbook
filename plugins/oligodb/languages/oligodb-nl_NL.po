@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quotes Collection 1.0 Nederlands\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/oligodb\n"
+"POT-Creation-Date: 2008-05-24 14:49+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kristof Vercruyssen <kristof@simplit.be>\n"
+"Language-Team:  <kristof@simplit.be>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: BELGIUM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: oligodb.php:60
+#: oligodb.php:96
+#: oligodb.php:100
+msgid "Next quote"
+msgstr "Volgend citaat"
+
+#: oligodb.php:61
+msgid "Loading..."
+msgstr "Laden..."
+
+#: oligodb.php:62
+msgid "Error getting quote"
+msgstr "Fout bij ophalen citaat"
+
+#: oligodb.php:120
+#: oligodb.php:137
+msgid "Random Quote"
+msgstr "Willekeurig citaat"
+
+#: oligodb.php:164
+msgid "Title"
+msgstr "Titel"
+
+#: oligodb.php:165
+msgid "Show author?"
+msgstr "Toon auteur?"
+
+#: oligodb.php:166
+msgid "Show source?"
+msgstr "Toon bron?"
+
+#: oligodb.php:167
+msgid "Ajax refresh feature"
+msgstr "Ajax ververs functie"
+
+#: oligodb.php:169
+msgid "Manage your collection of quotes at"
+msgstr "Beheer je collectie citaten op"
+
+#: oligodb.php:169
+msgid "Manage"
+msgstr "Beheren"
+
+#: oligodb.php:186
+msgid "Nothing added to the database."
+msgstr "Niets toegevoegd aan de database."
+
+#: oligodb.php:190
+#: oligodb.php:228
+msgid "Database table not found"
+msgstr "Database tabel niet gevodnen"
+
+#: oligodb.php:215
+#: oligodb.php:258
+#: oligodb.php:272
+msgid "There was an error in the MySQL query"
+msgstr "Er is een fout gevonden in de MySQL query"
+
+#: oligodb.php:217
+msgid "Quote added"
+msgstr "Citaat toegevoegd"
+
+#: oligodb.php:223
+msgid "Quote not updated."
+msgstr "Citaat niet bijgewerkt"
+
+#: oligodb.php:260
+msgid "Changes saved"
+msgstr "Wijzigingen opgeslagen"
+
+#: oligodb.php:274
+msgid "Quote deleted"
+msgstr "Citaat verwijderd"
+
+#: oligodb.php:276
+msgid "The quote cannot be deleted"
+msgstr "Het citaat kan niet verwijderd worden"
+
+#: oligodb.php:292
+#: oligodb.php:385
+msgid "Add Quote"
+msgstr "Citaat toevoegen"
+
+#: oligodb.php:308
+#: oligodb.php:389
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: oligodb.php:309
+msgid "Back"
+msgstr "Terug"
+
+#: oligodb.php:313
+#: oligodb.php:491
+msgid "The quote"
+msgstr "Het citaat"
+
+#: oligodb.php:314
+#: oligodb.php:477
+#: oligodb.php:493
+msgid "Author"
+msgstr "Auteur"
+
+#: oligodb.php:315
+#: oligodb.php:478
+#: oligodb.php:493
+msgid "Source"
+msgstr "Bron"
+
+#: oligodb.php:316
+#: oligodb.php:495
+msgid "Tags"
+msgstr "Kernwoorden"
+
+#: oligodb.php:317
+#: oligodb.php:496
+msgid "Visible?"
+msgstr "Zichtbaar?"
+
+#: oligodb.php:318
+msgid "optional"
+msgstr "Optioneel"
+
+#: oligodb.php:319
+msgid "comma separated"
+msgstr "Gescheiden door komma's"
+
+#: oligodb.php:355
+#: oligodb.php:368
+msgid "Nothing done!"
+msgstr "Er is niets gebeurd!"
+
+#: oligodb.php:362
+#, php-format
+msgid "Visibility status of selected quotes set to '%s'"
+msgstr "Zichtbaarheidsstatus van geselecteerde citaten op '%s' gezet"
+
+#: oligodb.php:373
+msgid "Quote(s) deleted"
+msgstr "Cita(a)t(en) verwijderd"
+
+#: oligodb.php:394
+msgid "Edit quote"
+msgstr "Wijzig citaat"
+
+#: oligodb.php:404
+#: oligodb.php:455
+#: oligodb.php:469
+#: oligodb.php:505
+msgid "Delete"
+msgstr "Verwijder"
+
+#: oligodb.php:406
+#: oligodb.php:470
+#: oligodb.php:506
+msgid "Make visible"
+msgstr "Maak zichtbaar"
+
+#: oligodb.php:409
+#: oligodb.php:471
+#: oligodb.php:507
+msgid "Make invisible"
+msgstr "Maak onzichtbaar"
+
+#: oligodb.php:454
+msgid "Edit"
+msgstr "Wijzig"
+
+#: oligodb.php:455
+msgid "Are you sure you want to delete this quote?"
+msgstr "Ben je zeker dat je dit citaat wil verwijderen?"
+
+#: oligodb.php:462
+#, php-format
+msgid "Currently, you have %d quote."
+msgstr "Momenteel heb je %d cita(a)t(en)"
+
+#: oligodb.php:464
+#: oligodb.php:521
+msgid "Add new quote"
+msgstr "Voeg citaat toe"
+
+#: oligodb.php:473
+msgid "Sort by: "
+msgstr "Sorteer volgens"
+
+#: oligodb.php:475
+#: oligodb.php:476
+msgid "Quote"
+msgstr "Citaat"
+
+#: oligodb.php:479
+msgid "Date added"
+msgstr "Datum toevoeging"
+
+#: oligodb.php:480
+msgid "Date updated"
+msgstr "Datum aanpassing"
+
+#: oligodb.php:481
+msgid "Visibility"
+msgstr "Zichtbaar"
+
+#: oligodb.php:484
+msgid "Go"
+msgstr "Ga"
+
+#: oligodb.php:497
+msgid "Action"
+msgstr "Actie"
+
+#: oligodb.php:515
+msgid "No quotes in the database"
+msgstr "Geen citaten in de database"
+

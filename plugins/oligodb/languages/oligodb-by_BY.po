@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quotes Collection\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-28 16:38+0300\n"
+"PO-Revision-Date: 2009-05-23 21:58+0300\n"
+"Last-Translator: Илья <mrilyuha@gmail.com>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../oligodb.php:60
+#: ../oligodb.php:96
+#: ../oligodb.php:100
+msgid "Next quote"
+msgstr "Наступная цытата"
+
+#: ../oligodb.php:61
+msgid "Loading..."
+msgstr "хвілінку..."
+
+#: ../oligodb.php:62
+msgid "Error getting quote"
+msgstr "Памылка стварэння цытаты"
+
+#: ../oligodb.php:120
+#: ../oligodb.php:137
+msgid "Random Quote"
+msgstr "Выпадковая цытата"
+
+#: ../oligodb.php:164
+msgid "Title"
+msgstr "Загаловак"
+
+#: ../oligodb.php:165
+msgid "Show author?"
+msgstr "Паказваць аўтара?"
+
+#: ../oligodb.php:166
+msgid "Show source?"
+msgstr "Паказваць крыніцу?"
+
+#: ../oligodb.php:167
+msgid "Ajax refresh feature"
+msgstr "Уключыць абнаўленне Ajax "
+
+#: ../oligodb.php:169
+msgid "Manage your collection of quotes at"
+msgstr "Перайсці да кіравання цытатамі"
+
+#: ../oligodb.php:169
+msgid "Manage"
+msgstr "Кіраванне"
+
+#: ../oligodb.php:186
+msgid "Nothing added to the database."
+msgstr "Нічога не дададзена"
+
+#: ../oligodb.php:190
+#: ../oligodb.php:228
+msgid "Database table not found"
+msgstr "Табліца не знойдзеная"
+
+#: ../oligodb.php:215
+#: ../oligodb.php:258
+#: ../oligodb.php:272
+msgid "There was an error in the MySQL query"
+msgstr "Памылка ў запыце MySQL"
+
+#: ../oligodb.php:217
+msgid "Quote added"
+msgstr "Цытата дададзеная"
+
+#: ../oligodb.php:223
+msgid "Quote not updated."
+msgstr "Цытата не абноўленая"
+
+#: ../oligodb.php:260
+msgid "Changes saved"
+msgstr "Змены захаваныя"
+
+#: ../oligodb.php:274
+msgid "Quote deleted"
+msgstr "Цытата выдаленая"
+
+#: ../oligodb.php:276
+msgid "The quote cannot be deleted"
+msgstr "Цытату не выдаліць"
+
+#: ../oligodb.php:292
+#: ../oligodb.php:385
+msgid "Add Quote"
+msgstr "Дадаць цытату"
+
+#: ../oligodb.php:308
+#: ../oligodb.php:389
+msgid "Save changes"
+msgstr "Захаваць"
+
+#: ../oligodb.php:309
+msgid "Back"
+msgstr "Назад"
+
+#: ../oligodb.php:313
+#: ../oligodb.php:491
+msgid "The quote"
+msgstr "Цытата"
+
+#: ../oligodb.php:314
+#: ../oligodb.php:477
+#: ../oligodb.php:493
+msgid "Author"
+msgstr "Аўтар"
+
+#: ../oligodb.php:315
+#: ../oligodb.php:478
+#: ../oligodb.php:493
+msgid "Source"
+msgstr "Крыніца"
+
+#: ../oligodb.php:316
+#: ../oligodb.php:495
+msgid "Tags"
+msgstr "Пазнакі"
+
+#: ../oligodb.php:317
+#: ../oligodb.php:496
+msgid "Visible?"
+msgstr "Бачная?"
+
+#: ../oligodb.php:318
+msgid "optional"
+msgstr "дадаткова"
+
+#: ../oligodb.php:319
+msgid "comma separated"
+msgstr "праз коску"
+
+#: ../oligodb.php:355
+#: ../oligodb.php:368
+msgid "Nothing done!"
+msgstr "Нічога не зроблена"
+
+#: ../oligodb.php:362
+#, php-format
+msgid "Visibility status of selected quotes set to '%s'"
+msgstr "Бачнасць вылучаных цытат змененая на '%s'"
+
+#: ../oligodb.php:373
+msgid "Quote(s) deleted"
+msgstr "Цытата(-ы) выдаленая"
+
+#: ../oligodb.php:394
+msgid "Edit quote"
+msgstr "Кіраваць"
+
+#: ../oligodb.php:404
+#: ../oligodb.php:455
+#: ../oligodb.php:469
+#: ../oligodb.php:505
+msgid "Delete"
+msgstr "Выдаліць"
+
+#: ../oligodb.php:406
+#: ../oligodb.php:470
+#: ../oligodb.php:506
+msgid "Make visible"
+msgstr "Паказаць"
+
+#: ../oligodb.php:409
+#: ../oligodb.php:471
+#: ../oligodb.php:507
+msgid "Make invisible"
+msgstr "Схаваць"
+
+#: ../oligodb.php:454
+msgid "Edit"
+msgstr "Кіраваць"
+
+#: ../oligodb.php:455
+msgid "Are you sure you want to delete this quote?"
+msgstr "Вы ўпэўненыя, што жадаеце выдаліць гэтую цытату?"
+
+#: ../oligodb.php:462
+#, php-format
+msgid "Currently, you have %d quote."
+msgid_plural "Currently, you have %d quotes."
+msgstr[0] "У вас %d цытата."
+msgstr[1] "У вас %d цытат."
+
+#: ../oligodb.php:464
+#: ../oligodb.php:521
+msgid "Add new quote"
+msgstr "Дадаць новую цытату"
+
+#: ../oligodb.php:473
+msgid "Sort by: "
+msgstr "Сартаваць:"
+
+#: ../oligodb.php:475
+#: ../oligodb.php:476
+msgid "Quote"
+msgstr "Цытата"
+
+#: ../oligodb.php:479
+msgid "Date added"
+msgstr "Дата дададзеная"
+
+#: ../oligodb.php:480
+msgid "Date updated"
+msgstr "Дата змененая"
+
+#: ../oligodb.php:481
+msgid "Visibility"
+msgstr "Бачнасць"
+
+#: ../oligodb.php:484
+msgid "Go"
+msgstr "Так"
+
+#: ../oligodb.php:497
+msgid "Action"
+msgstr "Дзеянні"
+
+#: ../oligodb.php:515
+msgid "No quotes in the database"
+msgstr "Няма цытат у базе"
+
+#~ msgid "from"
+#~ msgstr "aus"
+

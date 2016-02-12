@@ -1,0 +1,233 @@
+# Quotes Collection plugin for WordPress: Localization template.
+# Copyright (C) 2008 Srini G
+# This file is distributed under the same license as the Quotes Collection package.
+# Srini G <srinig.com@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Quotes Collection 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/oligodb\n"
+"POT-Creation-Date: 2008-05-24 14:49+0530\n"
+"PO-Revision-Date: 2008-09-24 05:25+0300\n"
+"Last-Translator: أحمد الهرفي <ahmed@alharfi.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: oligodb.php:60
+#: oligodb.php:96
+#: oligodb.php:100
+msgid "Next quote"
+msgstr "التالي"
+
+#: oligodb.php:61
+msgid "Loading..."
+msgstr "تحميل ..."
+
+#: oligodb.php:62
+msgid "Error getting quote"
+msgstr "حدث خطأ"
+
+#: oligodb.php:120
+#: oligodb.php:137
+msgid "Random Quote"
+msgstr "مقولة عشوائية"
+
+#: oligodb.php:164
+msgid "Title"
+msgstr "العنوان"
+
+#: oligodb.php:165
+msgid "Show author?"
+msgstr "إظهار الكاتب؟"
+
+#: oligodb.php:166
+msgid "Show source?"
+msgstr "إظهار المصدر؟"
+
+#: oligodb.php:167
+msgid "Ajax refresh feature"
+msgstr "التحديث بتقنية الأجاكس"
+
+#: oligodb.php:169
+msgid "Manage your collection of quotes at"
+msgstr "تحكم في مجموعة مقولاتك"
+
+#: oligodb.php:169
+msgid "Manage"
+msgstr "التحكم"
+
+#: oligodb.php:186
+msgid "Nothing added to the database."
+msgstr "لم يضف شيء لقاعدة البيانات."
+
+#: oligodb.php:190
+#: oligodb.php:228
+msgid "Database table not found"
+msgstr "جدول الإضافة غير موجود في قاعدة البيانات"
+
+#: oligodb.php:215
+#: oligodb.php:258
+#: oligodb.php:272
+msgid "There was an error in the MySQL query"
+msgstr "هناك خطا في قاعدة البيانات"
+
+#: oligodb.php:217
+msgid "Quote added"
+msgstr "تمت الإضافة"
+
+#: oligodb.php:223
+msgid "Quote not updated."
+msgstr "لم يتم التحديث"
+
+#: oligodb.php:260
+msgid "Changes saved"
+msgstr "تم الحفظ"
+
+#: oligodb.php:274
+msgid "Quote deleted"
+msgstr "تم الحذف"
+
+#: oligodb.php:276
+msgid "The quote cannot be deleted"
+msgstr "لا يمكن حذف المقولة"
+
+#: oligodb.php:292
+#: oligodb.php:385
+msgid "Add Quote"
+msgstr "إضافة مقولة"
+
+#: oligodb.php:308
+#: oligodb.php:389
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: oligodb.php:309
+msgid "Back"
+msgstr "للخلف"
+
+#: oligodb.php:313
+#: oligodb.php:491
+msgid "The quote"
+msgstr "المقولة"
+
+#: oligodb.php:314
+#: oligodb.php:477
+#: oligodb.php:493
+msgid "Author"
+msgstr "الكاتب (القائل)"
+
+#: oligodb.php:315
+#: oligodb.php:478
+#: oligodb.php:493
+msgid "Source"
+msgstr "المصدر"
+
+#: oligodb.php:316
+#: oligodb.php:495
+msgid "Tags"
+msgstr "التاق (الكلمات المفتاحية)"
+
+#: oligodb.php:317
+#: oligodb.php:496
+msgid "Visible?"
+msgstr "ظاهر؟"
+
+#: oligodb.php:318
+msgid "optional"
+msgstr "اختياري"
+
+#: oligodb.php:319
+msgid "comma separated"
+msgstr "افصل باستخدام الفاصلة"
+
+#: oligodb.php:355
+#: oligodb.php:368
+msgid "Nothing done!"
+msgstr "لم يتم عمل شيء"
+
+#: oligodb.php:362
+#, php-format
+msgid "Visibility status of selected quotes set to '%s'"
+msgstr "تم وضع قيم الإظهار/الإخفاء للمقولة المحددة لـ %s"
+
+#: oligodb.php:373
+msgid "Quote(s) deleted"
+msgstr "تم الحذف"
+
+#: oligodb.php:394
+msgid "Edit quote"
+msgstr "تحرير المقولة"
+
+#: oligodb.php:404
+#: oligodb.php:455
+#: oligodb.php:469
+#: oligodb.php:505
+msgid "Delete"
+msgstr "حذف"
+
+#: oligodb.php:406
+#: oligodb.php:470
+#: oligodb.php:506
+msgid "Make visible"
+msgstr "اجعله ظاهرا"
+
+#: oligodb.php:409
+#: oligodb.php:471
+#: oligodb.php:507
+msgid "Make invisible"
+msgstr "اجعله مخفيا"
+
+#: oligodb.php:454
+msgid "Edit"
+msgstr "تحرير"
+
+#: oligodb.php:455
+msgid "Are you sure you want to delete this quote?"
+msgstr "هل أنت متأكد من حذف هذه المقولة؟"
+
+#: oligodb.php:462
+#, php-format
+msgid "Currently, you have %d quote."
+msgid_plural "Currently, you have %d quotes."
+
+#: oligodb.php:464
+#: oligodb.php:521
+msgid "Add new quote"
+msgstr "أضف مقولة جديدة"
+
+#: oligodb.php:473
+msgid "Sort by: "
+msgstr "رتب بواسطة:"
+
+#: oligodb.php:475
+#: oligodb.php:476
+msgid "Quote"
+msgstr "المقولة"
+
+#: oligodb.php:479
+msgid "Date added"
+msgstr "تاريخ الإضافة"
+
+#: oligodb.php:480
+msgid "Date updated"
+msgstr "تاريخ التحديث"
+
+#: oligodb.php:481
+msgid "Visibility"
+msgstr "الظهور"
+
+#: oligodb.php:484
+msgid "Go"
+msgstr "اذهب"
+
+#: oligodb.php:497
+msgid "Action"
+msgstr "الإجراء"
+
+#: oligodb.php:515
+msgid "No quotes in the database"
+msgstr "لا يوجد مقولات في قاعدة البيانات"
+

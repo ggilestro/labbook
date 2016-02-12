@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quotes Collection v1.4.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-09-06 12:49+0000\n"
+"Last-Translator: Christian K. Nordtømme <christian@skriftlig.no>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Norwegian (Bokmål)\n"
+"X-Poedit-Country: NORWAY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: oligodb.php:16
+#@ oligodb
+msgid "Next quote"
+msgstr "Neste sitat"
+
+#: oligodb.php:88
+#@ oligodb
+msgid "Loading..."
+msgstr "Laster..."
+
+#: oligodb.php:89
+#@ oligodb
+msgid "Error getting quote"
+msgstr "Feil i henting av sitat"
+
+#: oligodb.php:239
+#: oligodb.php:264
+#@ oligodb
+msgid "Random Quote"
+msgstr "Tilfeldig sitat"
+
+#: oligodb.php:291
+#@ oligodb
+msgid "none"
+msgstr "ingen"
+
+#: oligodb.php:307
+#@ oligodb
+msgid "Title"
+msgstr "Tittel"
+
+#: oligodb.php:308
+#@ oligodb
+msgid "Show author?"
+msgstr "Vis opphavsperson?"
+
+#: oligodb.php:309
+#@ oligodb
+msgid "Show source?"
+msgstr "Vis kilde?"
+
+#: oligodb.php:310
+#@ oligodb
+msgid "Ajax refresh feature"
+msgstr "Ajax-gjenoppfrisking"
+
+#: oligodb.php:311
+#@ oligodb
+msgid "Advanced options"
+msgstr "Avanserte valgmuligheter"
+
+#: oligodb.php:313
+#@ oligodb
+msgid "Random refresh"
+msgstr "Tilfeldig gjenoppfrisking"
+
+#: oligodb.php:313
+#@ oligodb
+msgid "Unchecking this will rotate quotes in the order added, latest first."
+msgstr "Når denne boksen avsjekkes vil sitatene rotere i henhold til rekkefølgen de ble lagt til i, de siste først."
+
+#: oligodb.php:314
+#@ oligodb
+msgid "Auto refresh"
+msgstr "Automatisk gjenoppfrisking"
+
+#: oligodb.php:314
+#@ oligodb
+msgid "every"
+msgstr "hvert"
+
+#: oligodb.php:314
+#@ oligodb
+msgid "sec"
+msgstr "sekund"
+
+#: oligodb.php:315
+#@ oligodb
+msgid "Tags filter"
+msgstr "Nøkkelordfiltrering"
+
+#: oligodb.php:315
+#@ oligodb
+msgid "Comma separated"
+msgstr "Kommadelt"
+
+#: oligodb.php:316
+#@ oligodb
+msgid "Character limit"
+msgstr "Tegnbegrensning"
+
+#: oligodb.php:335
+#@ oligodb
+msgid "Nothing added to the database."
+msgstr "Ingenting er lagt til i databasen."
+
+#: oligodb.php:339
+#: oligodb.php:376
+#@ oligodb
+msgid "Database table not found"
+msgstr "Databasetabellen kan ikke finnes."
+
+#: oligodb.php:363
+#: oligodb.php:405
+#: oligodb.php:419
+#@ oligodb
+msgid "There was an error in the MySQL query"
+msgstr "Det oppsto en feil i MySQL-forespørselen"
+
+#: oligodb.php:365
+#@ oligodb
+msgid "Quote added"
+msgstr "Sitat lagt til"
+
+#: oligodb.php:371
+#@ oligodb
+msgid "Quote not updated."
+msgstr "Sitatet er ikke oppdatert."
+
+#: oligodb.php:407
+#@ oligodb
+msgid "Changes saved"
+msgstr "Endringer lagret"
+
+#: oligodb.php:421
+#@ oligodb
+msgid "Quote deleted"
+msgstr "Sitat slettet"
+
+#: oligodb.php:423
+#@ oligodb
+msgid "The quote cannot be deleted"
+msgstr "Sitatet kan ikke slettes"
+
+#: oligodb.php:439
+#: oligodb.php:536
+#@ oligodb
+msgid "Add Quote"
+msgstr "Legg til sitat"
+
+#: oligodb.php:455
+#: oligodb.php:540
+#@ oligodb
+msgid "Save changes"
+msgstr "Lagre endringer"
+
+#: oligodb.php:456
+#@ oligodb
+msgid "Back"
+msgstr "Tilbake"
+
+#: oligodb.php:460
+#: oligodb.php:646
+#@ oligodb
+msgid "The quote"
+msgstr "Sitatet"
+
+#: oligodb.php:461
+#: oligodb.php:629
+#: oligodb.php:648
+#@ oligodb
+msgid "Author"
+msgstr "Opphavsperson"
+
+#: oligodb.php:462
+#: oligodb.php:630
+#: oligodb.php:648
+#@ oligodb
+msgid "Source"
+msgstr "Kilde"
+
+#: oligodb.php:463
+#: oligodb.php:650
+#@ oligodb
+msgid "Tags"
+msgstr "Nøkkelord"
+
+#: oligodb.php:464
+#: oligodb.php:651
+#@ oligodb
+msgid "Public?"
+msgstr "Offentlig?"
+
+#: oligodb.php:465
+#@ oligodb
+msgid "optional"
+msgstr "valgfritt"
+
+#: oligodb.php:466
+#@ oligodb
+msgid "comma separated"
+msgstr "kommadelt"
+
+#: oligodb.php:503
+#: oligodb.php:519
+#@ oligodb
+msgid "Nothing done!"
+msgstr "Ingenting utført."
+
+#: oligodb.php:511
+#@ oligodb
+msgid "Selected quotes made public"
+msgstr "Valgte sitater er offentliggjort"
+
+#: oligodb.php:513
+#@ oligodb
+msgid "Selected quotes made private"
+msgstr "Valgte sitater er skjult fra offentligheten"
+
+#: oligodb.php:524
+#@ oligodb
+msgid "Quote(s) deleted"
+msgstr "Sitat(er) slettet"
+
+#: oligodb.php:545
+#@ oligodb
+msgid "Edit quote"
+msgstr "Redigere sitat"
+
+#: oligodb.php:555
+#: oligodb.php:606
+#: oligodb.php:621
+#: oligodb.php:660
+#@ oligodb
+msgid "Delete"
+msgstr "Slett"
+
+#: oligodb.php:557
+#: oligodb.php:622
+#: oligodb.php:661
+#@ oligodb
+msgid "Make public"
+msgstr "Gjør offentlig"
+
+#: oligodb.php:560
+#: oligodb.php:623
+#: oligodb.php:662
+#@ oligodb
+msgid "Keep private"
+msgstr "Hold privat"
+
+#: oligodb.php:605
+#@ oligodb
+msgid "Edit"
+msgstr "Redigere"
+
+#: oligodb.php:606
+#@ oligodb
+msgid "Are you sure you want to delete this quote?"
+msgstr "Er du sikker på at du vil slette dette sitatet?"
+
+#: oligodb.php:613
+#, php-format
+#@ oligodb
+msgid "Currently, you have %d quote."
+msgid_plural "Currently, you have %d quotes."
+msgstr[0] "Du har %d sitat."
+msgstr[1] "Du har %d sitater."
+
+#: oligodb.php:615
+#: oligodb.php:677
+#@ oligodb
+msgid "Add new quote"
+msgstr "Nytt sitat"
+
+#: oligodb.php:625
+#@ oligodb
+msgid "Sort by: "
+msgstr "Sortere etter:"
+
+#: oligodb.php:627
+#: oligodb.php:628
+#@ oligodb
+msgid "Quote"
+msgstr "Sitat"
+
+#: oligodb.php:631
+#@ oligodb
+msgid "Date added"
+msgstr "Dato lagt til"
+
+#: oligodb.php:632
+#@ oligodb
+msgid "Date updated"
+msgstr "Dato oppdatert"
+
+#: oligodb.php:633
+#@ oligodb
+msgid "Visibility"
+msgstr "Synlighet"
+
+#: oligodb.php:636
+#@ oligodb
+msgid "Go"
+msgstr "Kjør"
+
+#: oligodb.php:652
+#@ oligodb
+msgid "Action"
+msgstr "Handling"
+
+#: oligodb.php:671
+#@ oligodb
+msgid "No quotes in the database"
+msgstr "Ingen sitater i databasen"
+
